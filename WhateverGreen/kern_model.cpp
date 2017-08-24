@@ -547,7 +547,7 @@ static constexpr Model dev6863[] {
 };
 
 static constexpr Model dev687f[] {
-	{Model::DetectSub, 0x0000, 0x0000, 0x0000, "AMD Radeon Vega 64"},
+	{Model::DetectRev, 0x0000, 0x0000, 0x00c1, "AMD Radeon Vega 64"},
 };
 
 static constexpr Model dev6898[] {
